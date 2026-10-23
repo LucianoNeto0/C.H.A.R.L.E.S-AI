@@ -1,0 +1,14 @@
+# Ambiente Virtual (muito pesado, não se sobe)
+.venv/
+venv/
+ENV/
+
+# Arquivos de memória e dados privados
+charles_memory.json
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de configuração do VS Code
+.vscode/
