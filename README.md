@@ -87,4 +87,4 @@ GitHub: [@LucianoNeto0](https://github.com/LucianoNeto0)
 
 ## Licença
 
-Este projeto não possui uma licença open source. Todos os direitos são reservados ao autor. Consulte o arquivo `LICENSE` antes de reutilizar qualquer parte do código.
+Este projeto não possui uma licença open source. O código é disponibilizado para demonstração e avaliação de portfólio; todos os direitos são reservados ao autor. Qualquer reutilização depende de autorização prévia.
